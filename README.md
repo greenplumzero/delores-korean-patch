@@ -14,5 +14,5 @@ C:\...\Steam\steamapps\common\Delores
 - [Mulmaru](https://mushsooni.github.io/)
 
 ## 업데이트 내역
-v1.0.0 - 2026-06-20
-- 대사 번역 및 검수
+**v1.0.0 - 2026-06-20**
+- 최초 릴리즈
