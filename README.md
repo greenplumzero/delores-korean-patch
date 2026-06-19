@@ -8,8 +8,11 @@
 ```bash
 C:\...\Steam\steamapps\common\Delores
 ```
+압축을 해제한 뒤 안에 들어 있는 `Delores.ggpack1`을 위 경로에 붙여넣기
 
 ## 사용된 폰트
 - [Mulmaru](https://mushsooni.github.io/)
 
 ## 업데이트 내역
+v1.0.0 - 2026-06-20
+- 대사 번역 및 검수
