@@ -14,6 +14,10 @@ C:\...\Steam\steamapps\common\Delores
 - [Mulmaru](https://mushsooni.github.io/)
 
 ## 업데이트 내역
+**v1.0.2 - 2026-06-22**
+- 대사 윤문
+- 관사 `a`, `an`, `the`가 대사에 같이 출력되는 문제 해결
+- 
 **v1.0.1 - 2026-06-20**
 - 오타 수정
 
